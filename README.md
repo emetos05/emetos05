@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emetos05
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C, Python and SQL
+- 👀 I’m interested in Software Development projects
+- 🌱 I'm currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me dan.emehin@gmail.com
 
