@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emetos05
-- 👀 I’m interested in Software Development projects
-- 🌱 I'm currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on front-end projects
+- 👀 I’m interested in Software Development
+- 🌱 I'm currently working on web application development projects
+- 💞️ I’m looking to collaborate on front-end and back-end projects
 - 📫 How to reach me dan.emehin@gmail.com
 
 <!---
