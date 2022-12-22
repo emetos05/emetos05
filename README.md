@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emetos05
 - 👀 I’m a Software Developer with a focus in web development
 - 🌱 I'm currently working on web application development projects
-- 💞️ I’m looking to collaborate on front-end and back-end projects (Core stack - Angular, JavaScript, JQuery, TypeScript, NodeJS, Express, MongoDB, C#, MSSQL, ASP.Net, .Net, Entity Framework )
+- 💞️ I’m open to collaborate on open source projects (Core stack - Angular, JavaScript, JQuery, TypeScript, NodeJS, Express, MongoDB, C#, MSSQL, ASP.Net, .Net, Entity Framework )
 - 📫 How to reach me dan.emehin@gmail.com
 
 <!---
