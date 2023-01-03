@@ -8,7 +8,7 @@ I'm a Software Developer with experience spanning front-end, back-end and full-s
 
 * 🌍  I'm based in Regina, SK.
 * ✉️  You can contact me at [dan.emehin@gmail.com](mailto:dan.emehin@gmail.com)
-* 🧠  I'm learning NodeJS
+* 🧠  I'm learning GraphQL
 * 🤝  I'm open to collaborating on open-source projects
 * ⚡  I'm a big soccer fan
 
