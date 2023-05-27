@@ -6,10 +6,10 @@ Software Developer
 
 I'm a Software Developer with experience spanning front-end, back-end and full-stack development. I've been coding for over 3 years, both in college and professionally.
 
-* 🌍  I'm based in Regina, SK.
+* 🌍  I'm from Regina, SK.
 * ✉️  You can contact me at [dan.emehin@gmail.com](mailto:dan.emehin@gmail.com)
-* 🤝  I'm open to collaborating on open-source projects
-* ⚡  I'm a big soccer fan
+* 🤝  I'm open to collaborating on exciting projects
+* ⚡  I'm a big sports fan
 
 ### Skills
 
