@@ -1,7 +1,7 @@
 Hi, I'm Daniel Emehin
+---------------------
 
-
-About Me
+### About Me
 
 I'm a Software Developer with experience spanning front-end, back-end and full-stack development. I've been coding for over 3 years, both in college and professionally.
 
