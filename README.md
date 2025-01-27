@@ -5,7 +5,7 @@ Hi, I'm Daniel Emehin
 
 I'm a Software Developer with experience spanning front-end, back-end and full-stack development. I've been coding professionally for over 3 years.
 
-* 🌍  I'm from Canada.
+* 🌍  I'm from Toronto, ON.
 * ✉️  You can contact me at [dan.emehin@gmail.com](mailto:dan.emehin@gmail.com)
 * 🤝  I'm open to collaborating on exciting projects
 * ⚡  I'm a big sports fan
