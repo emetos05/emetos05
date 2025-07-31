@@ -3,7 +3,7 @@ Hi, I'm Daniel Emehinola
 
 ### About Me
 
-I'm a Software Developer with experience spanning front-end, back-end and full-stack development. I've been coding professionally for over 3 years.
+I'm a Software Developer with experience spanning front-end, back-end and full-stack development.
 
 * 🌍  I'm from Toronto, ON.
 * ✉️  You can contact me at [dan.emehin@gmail.com](mailto:dan.emehin@gmail.com)
