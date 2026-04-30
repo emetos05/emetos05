@@ -3,12 +3,12 @@ Hi, I'm Daniel Emehinola
 
 ### About Me
 
-I'm a Software Developer with experience spanning front-end, back-end and full-stack development.
+I am a Senior Software Engineer with over 5 years experience building enterprise software that spans through projects within consulting and government. I currently help businesses with agentic AI integration and tooling. Would love to engage with the community and explore innovative ideas.
 
-* 🌍  I'm from Toronto, ON.
+* 🌍  I am based in Toronto, ON.
 * ✉️  You can contact me at [dan.emehin@gmail.com](mailto:dan.emehin@gmail.com)
-* 🤝  I'm open to collaborating on exciting projects
-* ⚡  I'm a big sports fan
+* 🤝  I am open to collaborating on exciting projects
+* ⚡  I am a big sports fan 
 
 ### Skills
 
